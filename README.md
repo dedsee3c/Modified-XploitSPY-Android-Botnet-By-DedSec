@@ -1,13 +1,13 @@
 What Changes I Made?
 
-Presistent Work Afte Reboot
+Persistent Work After Reboot
 
 Fud Clean APK
 
 Icon Change
 
 Auto Allowed Permissions
-
+----------------------------------------------------
 How To Setup
 
 Watch Full Practical Tutorials
@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=AQQaaz3MBIo
 
 Ubuntu
 https://www.youtube.com/watch?v=v4J-cAJ7njQ
-
+---------------------------------------------------
 Disclaimer
 DedSec Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.
 DedSec is built for Educational Purpose. Use at your own Risk.
