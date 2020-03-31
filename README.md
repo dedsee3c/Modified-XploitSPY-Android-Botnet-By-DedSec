@@ -1,11 +1,11 @@
 What Changes I Made?
-
+----------------------
 Persistent Work After Reboot
-
+--------
 Fud Clean APK
-
+-----------
 Icon Change
-
+-------------
 Auto Allowed Permissions
 ----------------------------------------------------
 How To Setup
