@@ -1,8 +1,11 @@
 What Changes I Made?
 
 Presistent Work Afte Reboot
+
 Fud Clean APK
+
 Icon Change
+
 Auto Allowed Permissions
 
 How To Setup
