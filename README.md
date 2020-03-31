@@ -31,3 +31,6 @@ Modified By DedSec
 -----
 Credits
 Credits to D3VL for the original code base this repository is based on at L3MON
+
+
+Visit For More <a href="https://xploitwizer.com" rel="nofollow">XploitWizer</a></p>
