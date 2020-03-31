@@ -1,7 +1,7 @@
 How To Setup
 
 Watch Full Practical Tutorials
-Heruka
+Heroka
 https://www.youtube.com/watch?v=njpRkO2mgn4
 
 VPS
